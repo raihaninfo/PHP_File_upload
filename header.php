@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Learning PHP</title>
 </head>
-
 <body>
     <div class="container">
         <section class="header bg-color">
@@ -26,12 +25,14 @@
         </div>
             <div class="row">
                 <div class="col-md-4">
+                    <!-- quotes -->
                     <p class="text-center ptext">মৃত্যু না হওয়া পর্যন্ত মানুষের শিক্ষা সমাপ্ত হয় না।</p>
                 </div>
                 <div class="col-md-4">
                     <h2 class="h2 text-center text-h">Learning PHP</h2>
                 </div>
                 <div class="col-md-4">
+                    <!-- quotes -->
                     <p class="text-center ptext">শিক্ষার শেকড়ের স্বাদ তেঁতো হলেও এর ফল মিষ্টি</p>
                 </div>
             </div>
