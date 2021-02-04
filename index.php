@@ -1,6 +1,6 @@
 <?php include'header.php'; ?>
         <section class="main-body bg-dark text-white">
-    <!-- html code hear -->
+            <!-- html code hear -->
         <form action="<?php echo $_SERVER["PHP_SELF"]; ?>" method="POST" enctype="multipart/form-data">
             <input type="file" name="image" id="">
             <input type="submit" value="Submit" name="submit">
